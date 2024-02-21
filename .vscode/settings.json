@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp"
+    }
+}
